@@ -1,0 +1,8 @@
+name: Drupal Custom Migrate Example
+type: module
+description: Defines migration stuff from D6/D7 to D8.
+core: 8.x
+package: Custom
+dependencies:
+  - migrate_drupal
+  - migrate_plus

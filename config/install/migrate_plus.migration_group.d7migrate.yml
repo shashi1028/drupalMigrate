@@ -1,0 +1,8 @@
+id: d7migrate
+label: 'Drupal 7 Migrate group'
+description: 'Drupal 7 Migrate group'
+source_type: 'Drupal 7.'
+module: null
+shared_configuration:
+  source:
+    key: drupal_7
