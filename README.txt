@@ -62,3 +62,4 @@ drush mmsg d7Article   # Abbreviation for migrate-messages
 drush mr d7Article  # Abbreviation for migrate-rollback
 
 # Added new line.
+# Fixed the issue.
